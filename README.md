@@ -1,1 +1,1 @@
-**[![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ngquangtrung57&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)**
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ngquangtrung57&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
