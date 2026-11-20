@@ -16,7 +16,8 @@ jobs:
       - name: Build stats.svg
         run: python3 scripts/stats_card.py
         env:
-          # Optional secret STATS_TOKEN (classic PAT, no scopes needed) avoids GITHUB_TOKEN limits.
+          # Secret STATS_TOKEN (fine-grained PAT, all repos, read-only Contents + Metadata) adds private commits/PRs.
+          # Without it, GITHUB_TOKEN counts public contributions only.
           GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
       - name: Commit if changed
