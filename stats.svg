@@ -22,13 +22,13 @@
 <g transform="translate(25,60)"><text class="lbl">Total stars (contributed repos)</text><text class="val" x="215">10.5k</text></g>
 <g transform="translate(25,84)"><text class="lbl">Commits</text><text class="val" x="215">2.5k</text></g>
 <g transform="translate(25,108)"><text class="lbl">Pull requests</text><text class="val" x="215">76</text></g>
-<g transform="translate(25,132)"><text class="lbl">PR reviews</text><text class="val" x="215">18</text></g>
+<g transform="translate(25,132)"><text class="lbl">PR reviews</text><text class="val" x="215">20</text></g>
 <g transform="translate(25,156)"><text class="lbl">Issues</text><text class="val" x="215">2</text></g>
 <g transform="translate(25,180)"><text class="lbl">Contributed to</text><text class="val" x="215">25</text></g>
 <g transform="translate(340,107)">
   <circle class="ring" r="40"/>
   <circle class="arc" r="40"
-          stroke-dasharray="196.0 251.3" transform="rotate(-90)"/>
+          stroke-dasharray="196.8 251.3" transform="rotate(-90)"/>
   <text class="grade" text-anchor="middle" dominant-baseline="central">A</text>
 </g>
 </svg>
